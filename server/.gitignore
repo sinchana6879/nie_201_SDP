@@ -1,0 +1,6 @@
+
+__pycache__/
+*.py[cod]
+events.db
+app.log
+config.py.bak
